@@ -1,6 +1,6 @@
 body {
   font-family: Arial, sans-serif;
-  background-color: #ffc0cb;
+  background-color: #ffb6c1;
 }
 
 .container {
@@ -27,7 +27,7 @@ textarea {
 }
 
 button {
-  background-color: #4caf50;
+  background-color: #ffb6c1;
   color: #ffffff;
   border: none;
   padding: 10px 20px;
